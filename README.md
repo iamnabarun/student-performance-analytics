@@ -51,5 +51,3 @@ Pass condition: at least 35 marks in every subject. Grade and pass/fail status a
 - `requirements.txt` — dependencies
 - `Project_Documentation.md` — assignment documentation
 
-## GitHub submission
-Create a repository named `student-performance-analytics`, then upload these project files. Verify that `main.py`, `students.csv`, `README.md`, and `Project_Documentation.md` are visible. Copy the repository URL into the EWB Google Form provided by your trainer.
